@@ -9,9 +9,9 @@
 
     <name>Scala Hello World</name>
 
-    <!--<scm>
-      <connection>scm:svn:http://svn.apache.org/repos/asf/mina/ftpserver/trunk</connection>
-    </scm>-->
+    <scm>
+        <connection>scm:git:https://github.com/mabrarov/scala-hello-world.git</connection>
+    </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
